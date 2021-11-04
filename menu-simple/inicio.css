@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: white;
+}
+
+/* menu */
+
+.navegation{
+    background:rgb(120, 27, 187);
+    text-align: center;
+    margin: 15px 300px;
+    border: 1px solid;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.navegation ul{
+    background: white;
+    list-style: none;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.menu li{
+    display: inline-block;
+    margin: 0px 10px;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: black;
+}
